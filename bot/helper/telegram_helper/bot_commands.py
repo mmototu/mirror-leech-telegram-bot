@@ -46,4 +46,4 @@ class _BotCommands:
          self.RssUnSubCommand = 'rssunsub1'
          self.RssUnSubAllCommand = 'rssunsuball1'
 
- BotCommands = _BotCommands()
+BotCommands = _BotCommands()
